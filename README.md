@@ -1,0 +1,4 @@
+- 👋 @sharynxu 
+- 👀 open source/3D Modeling
+- 💞️ collaborate on pcb/pcba
+- 📫 sharynxu01@gmail.com
